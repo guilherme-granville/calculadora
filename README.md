@@ -1,3 +1,3 @@
 # calculadora
 
-parte 1 da calculadora que esta sendo feita em sala.
+calculadora feita em sala de aula em front end com o professor Denis
